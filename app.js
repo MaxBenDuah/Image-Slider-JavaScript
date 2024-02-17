@@ -1,3 +1,5 @@
+"use strict";
+
 const slider = document.querySelector(".slider");
 const imgContainer = document.querySelectorAll(".img-cont");
 const btnLeft = document.querySelector(".btn-left");
